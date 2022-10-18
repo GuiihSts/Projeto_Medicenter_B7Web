@@ -17,7 +17,7 @@ header{
 
 .container {
     display: flex;
-    widtd: 990px;
+    width: 990px;
     justify-content: space-between;
 }
 
@@ -87,7 +87,7 @@ nav a:hover{
     margin: 0;
     padding: 0;
     text-shadow: 0px 1px 0px #555555;
-    max-widtd: 350px;
+    max-width: 350px;
 }
 
 .banner_headline h2{
@@ -96,9 +96,9 @@ nav a:hover{
     margin: 0;
     padding: 0;
     text-shadow: 0px 1px 0px #555555;
-    widtd: 350px;
+    width: 350px;
     margin-top: 30px;
-    max-widtd: 350px;
+    max-width: 350px;
 }
 
 .banner_options{
@@ -181,7 +181,7 @@ nav a:hover{
 }
 
 .widget_title_bar{
-    widtd: 50px;
+    width: 50px;
     height: 3px;
     background-color: #36a9e1;
     margin-top: 10px;
@@ -194,7 +194,7 @@ nav a:hover{
 
 .box div{
     height: 100px;
-    widtd: 100px;
+    width: 100px;
     background-color: rgba(3, 132, 206);
     margin-bottom: 20px;
     margin-right: 20px;
@@ -242,7 +242,7 @@ nav a:hover{
 }
 article{
     flex: 1;
-    min-widtd: 300px;
+    min-width: 300px;
     margin-right: 20px;
 }
 
@@ -272,7 +272,7 @@ article .news_tdumbail{
     margin-top: 30px;
 }
 article .news_tdumbail img{
-    widtd: 100%;
+    width: 100%;
     height: auto;
 }
 
@@ -391,7 +391,7 @@ footer .address_contact{
 
 footer .address{
     height: 80px;
-    widtd: 90px;
+    width: 90px;
 }
 
 footer .contact_email{
@@ -458,13 +458,13 @@ footer .date_text{
 }
 
 .redes_sociais img{
-    widtd: 35px;
+    width: 35px;
     
 }
 
 .menuMobile{
     display: none;
-    widtd: 40px;
+    width: 40px;
     height: 40px;
     font-size: 12px;
     margin-top: 30px;
@@ -478,7 +478,7 @@ footer .date_text{
 
 
 
-@media (max-widtd: 600px){
+@media (max-width: 600px){
 
 
 .banner_headline{
@@ -532,7 +532,7 @@ nav ul{
     position: absolute;
     left: 0;
     background-color: #FFF;
-    widtd: 100%;
+    width: 100%;
 }
 
 header {
